@@ -1,0 +1,15 @@
+E:\Users\Fazrin\RiderProjects\StringB\StringB\bin\Debug\net6.0\StringB.exe
+E:\Users\Fazrin\RiderProjects\StringB\StringB\bin\Debug\net6.0\StringB.deps.json
+E:\Users\Fazrin\RiderProjects\StringB\StringB\bin\Debug\net6.0\StringB.runtimeconfig.json
+E:\Users\Fazrin\RiderProjects\StringB\StringB\bin\Debug\net6.0\StringB.dll
+E:\Users\Fazrin\RiderProjects\StringB\StringB\bin\Debug\net6.0\StringB.pdb
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.csproj.AssemblyReference.cache
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.AssemblyInfoInputs.cache
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.AssemblyInfo.cs
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.csproj.CoreCompileInputs.cache
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.dll
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\refint\StringB.dll
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.pdb
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\StringB.genruntimeconfig.cache
+E:\Users\Fazrin\RiderProjects\StringB\StringB\obj\Debug\net6.0\ref\StringB.dll
